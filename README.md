@@ -2,6 +2,8 @@
 
 This is a (very!) simple package for converting the binary data from Avi Snider's 4dfp neuroimaging file format into a Numpy array, that can then be used in your Python scripts.
 
+Based off of the [Julia package](https://github.com/myersm0/Fourdfp.jl) written by Michael Myers: 
+
 ## Install
 
 ```bash
