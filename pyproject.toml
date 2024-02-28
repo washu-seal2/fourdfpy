@@ -3,11 +3,11 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "4dfpy_washu-seal"
+name = "fourdfpy"
 version = "0.0.1"
 authors = [
 	{ name="Joey Scanga", email="joeyscanga92@gmail.com" },
-	{ name="Ramone Agard", email="ramone.agard@gmail.com" }
+	{ name="Ramone Agard", email="ramone.agard@gmail.com" },
 ]
 description = "A simple package for converting a 4dfp brain image into a Numpy array."
 readme = "README.md"
@@ -19,6 +19,6 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/washu-seal2/4dfpy"
-Issues = "https://github.com/washu-seal2/4dfpy/issues"
+Homepage = "https://github.com/washu-seal2/fourdfpy"
+Issues = "https://github.com/washu-seal2/fourdfpy/issues"
 

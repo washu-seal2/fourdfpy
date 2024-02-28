@@ -1,19 +1,19 @@
-# 4dfpy
+# fourdfpy
 
-This is a (very!) simple package for converting binary data contained in Avi Snider's 4dfp neuroimaging file format into a Numpy array, that can then be used in your Python scripts.
+This is a (very!) simple package for converting the binary data from Avi Snider's 4dfp neuroimaging file format into a Numpy array, that can then be used in your Python scripts.
 
 ## Install
 
-```
-pip install 4dfpy
+```bash
+pip install fourdfpy
 ```
 
 ## Running
 
-```
-import 4dfpy
+```python
+import fourdfpy
 
-my_4dfp_data = 4dfpy.load("/path/to/myimg")
+my_4dfp_data = fourdfpy.load("/path/to/myimg")
 ```
 
 The path to the 4dfp files should **only include the root name** without the
