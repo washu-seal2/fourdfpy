@@ -20,4 +20,4 @@ The path to the 4dfp files should **only include the root name** without the
 extension (example: "/path/to/myimg.4dfp.img" should instead be "/path/to/myimg").
 Make sure the .4dfp.img and .4dfp.hdr files are in the same directory.
 
-[ ] TODO: add support for including file extension
+- [ ] TODO: add support for including file extension
