@@ -10,7 +10,7 @@ pip install 4dfpy
 
 ## Running
 
-```python
+```python3
 import 4dfpy
 
 my_4dfp_data = 4dfpy.load("/path/to/myimg")
