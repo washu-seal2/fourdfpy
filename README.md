@@ -4,13 +4,13 @@ This is a (very!) simple package for converting binary data contained in Avi Sni
 
 ## Install
 
-```bash
+```
 pip install 4dfpy
 ```
 
 ## Running
 
-```python3
+```
 import 4dfpy
 
 my_4dfp_data = 4dfpy.load("/path/to/myimg")
